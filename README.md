@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbarpaga.
-- 👀 I’m interested in VFX, Game Dev, Cyber Security and Programming.
+- 👀 I’m interested in Cyber Security and Programming.
 - 🌱 I’m currently learning Python, JavaScript.
 - 📫 How to reach me at Twitter @DineshBarpaga
 
